@@ -1,2 +1,1 @@
-# WEB
-Sites e coisas relacionadas a desenvolvimento web.
+# tic-tac-toe-vanilla
